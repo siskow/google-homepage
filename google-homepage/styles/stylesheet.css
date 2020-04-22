@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    font-size: 14px;
+}
+
+.center {
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+
+#logo {
+    margin-top: 200px;
+    Margin-bottom: 25px;
+    text-align: center;
+    padding-left: 100px;
+}
+
+#input-area {
+    line-height: 34px;
+    height: 40px;
+    border-radius:24px;
+    border: 1px solid #dfe1e5;
+    font: 16px arial,sans-serif;
+    width: 582px;
+}
+
+#search-group {
+    padding: 18px 0px 0px ;
+}
+
+.search-button {
+    margin: 11px 4px;
+    height: 36px;
+    line-height: 27px;
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1,);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5f6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding: 0px 16px;
+    min-width: 54px;
+    text-align: center;
+}
+
+#about-store {
+    float: left;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+#mail-images-signin {
+    float: right;
+    padding: 20px 20px 20px 20px;
+}
+
+#header a {
+    color: rgba(0,0,0,0.87);
+}
+
+a {
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+a#sign-in {
+    display: inline-block;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    color: #fff;
+    padding: 0px 12px;
+    line-height: 30px;
+    font-weight: bold;
+    border-radius: 2px;
+    border: 1px solid #4285f4;
+}
+
+/* #apps {
+    width: 30px;
+    height: 30px;
+    background-image: url(https://web.archive.org/web/20191201000239im_/https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-position: -132px -38px;
+    opacity: .55;
+    background-size: 528px 68px;
+} */
+
+
+#footer {
+    position: fixed;
+    margin-bottom: 0px;
+    bottom: 0px;
+    display: inline-block;
+    width: 100%;
+    background: #f2f2f2;
+    line-height: 40px;
+    border-top: 1px solid #e4e4e4;
+}
+
+#footer a {
+    color: #5f6368;
+}
+
+.foot-el {
+    padding-left: 27px;
+    padding-right: 27px;
+}
+
+#left-foot {
+    float: left;
+}
+
+#right-foot {
+    float: right;
+}
